@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">201533631 김도균</string>
+    <string name="start">시작</string>
+    <string name="record">기록</string>
+    <string name="pause">일시정지</string>
+    <string name="restart">다시시작</string>
+    <string name="stop">중지</string>
+    <string name="more">더보기</string>
+    <string name="back">돌아가기</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:stretchColumns="*">
+
+    <TableRow>
+        <TextView
+            android:text="Open..."
+            android:padding="3dip"/>
+        <TextView
+            android:text="Ctrl-O"
+            android:gravity="right"
+            android:padding="3dip"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="Save As..."
+            android:padding="3dip"/>
+        <TextView
+            android:text="Ctrl-Shift-O"
+            android:gravity="right"
+            android:padding="3dip"/>
+    </TableRow>
+
+</TableLayout>

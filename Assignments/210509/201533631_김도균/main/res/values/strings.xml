@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">201533631 김도균</string>
+    <string name="main_btn">메인</string>
+    <string name="menu_btn">메뉴</string>
+    <string name="main_label">ListView Fragment</string>
+    <string name="menu_label">Spinner Fragment</string>
+
+    <string name="main_item_1">Monday</string>
+    <string name="main_item_2">Tuesday</string>
+    <string name="main_item_3">Wednesday</string>
+    <string name="main_item_4">Thursday</string>
+    <string name="main_item_5">Friday</string>
+
+    <string name="menu_item_1">데이터 과학</string>
+    <string name="menu_item_2">모바일 프로그래밍</string>
+    <string name="menu_item_3">소프트웨어공학</string>
+    <string name="menu_item_4">경영학원론</string>
+    <string name="menu_item_5">소프트웨어산업세미나</string>
+    <string name="menu_item_6">졸업작품 1</string>
+
+    <string name="menu_item_toast">이(가) 선택되었습니다.</string>
+</resources>
